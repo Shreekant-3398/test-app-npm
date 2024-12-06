@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "jsx": "react-jsx", // Ensure this is set to react-jsx if using React 17+ JSX transform
+    "moduleResolution": "node"
+  }
+}
